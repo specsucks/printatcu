@@ -41,6 +41,7 @@ directory with the line
     FILEPICKER_SECRET=
 
 To start the application, you need to run
+
     $foreman run rails server
 
 and visit
@@ -58,6 +59,6 @@ External Links
 * [NINJa Status](http://www.columbia.edu/acis/facilities/printers/ninja_status.html)
 * [NINJa Printer Locations](http://www.columbia.edu/acis/facilities/printers/locations.html)
 * [Specsucks offical blog](http://specsucks.wordpress.com)
-* [Specsucks official twitter](http://twitter.com/specsucks) 
+* [Specsucks official twitter](http://twitter.com/spec_sucks) 
 
 p.s. this is NOT printatcu plz don't sue us.
