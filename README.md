@@ -14,7 +14,7 @@ Then just point your browser at ```http://localhost:3000```
 Credits
 -------
 * [Sam Aarons](http://samaarons.com)
-  
+* [The Cloaked Mask](http://specsucks.wordpress.com)  
 External Links
 --------------
 * [Print@CU](https://printatcu.com)
