@@ -1,6 +1,6 @@
-Print@CU
+NOT Print@CU
 ========
-Print@CU allows anyone to send documents to Columbia University's NINJa printing system.
+NOT Print@CU allows anyone to send documents to Columbia University's NINJa printing system.
 
 Setup
 -----
@@ -21,3 +21,7 @@ External Links
 * [Print@CU](https://printatcu.com)
 * [NINJa Status](http://www.columbia.edu/acis/facilities/printers/ninja_status.html)
 * [NINJa Printer Locations](http://www.columbia.edu/acis/facilities/printers/locations.html)
+* [Specsucks offical blog](http://specsucks.wordpress.com)
+* [Specsucks official twitter](http://twitter.com/specsucks) 
+
+p.s. this is NOT printatcu plz don't sue us.
